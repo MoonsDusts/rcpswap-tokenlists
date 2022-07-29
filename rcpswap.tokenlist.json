@@ -32,14 +32,14 @@
       "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
       "symbol": "USDC",
       "name": "USD Coin",
-      "decimals": 18
+      "decimals": 6
     },
     {
       "chainId": 42170,
       "address": "0x52484e1ab2e2b22420a25c20fa49e173a26202cd",
       "symbol": "USDT",
       "name": "Tether USD",
-      "decimals": 18
+      "decimals": 6
     },
     {
       "chainId": 42170,
