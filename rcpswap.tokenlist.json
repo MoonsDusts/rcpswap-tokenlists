@@ -47,6 +47,20 @@
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18
+    },
+     {
+      "chainId": 42170,
+      "address": "0x0057ac2d777797d31cd3f8f13bf5e927571d6ad0",
+      "symbol": "MOON",
+      "name": "Moons",
+      "decimals": 18
+    },
+     {
+      "chainId": 42170,
+      "address": "0x6dcb98f460457fe4952e12779ba852f82ecc62c1",
+      "symbol": "BRICK",
+      "name": "Bricks",
+      "decimals": 18
     }
   ]
 }
