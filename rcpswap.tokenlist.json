@@ -25,28 +25,32 @@
       "address": "0x88f9deaea3da49b33453640a5567906fbc609cc8",
       "symbol": "DAI",
       "name": "Dai Stablecoin",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI":"https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
     },
     {
       "chainId": 42170,
       "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
       "symbol": "USDC",
       "name": "USD Coin",
-      "decimals": 6
+      "decimals": 6,
+      "logoURI":"https://tokens.1inch.io/0x39aa39c021dfbae8fac545936693ac917d5e7563.png"
     },
     {
       "chainId": 42170,
       "address": "0x52484e1ab2e2b22420a25c20fa49e173a26202cd",
       "symbol": "USDT",
       "name": "Tether USD",
-      "decimals": 6
+      "decimals": 6,
+      "logoURI":"https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
     },
     {
       "chainId": 42170,
       "address": "0x722e8bdd2ce80a4422e880164f2079488e115365",
       "symbol": "WETH",
       "name": "WETH",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI":"https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
      {
       "chainId": 42170,
