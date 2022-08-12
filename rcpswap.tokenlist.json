@@ -26,7 +26,7 @@
       "symbol": "DAI",
       "name": "Dai Stablecoin",
       "decimals": 18,
-      "logoURI":"https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+      "logoURI":"https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum-nova/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.jpg"
     },
     {
       "chainId": 42170,
@@ -34,7 +34,7 @@
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI":"https://tokens.1inch.io/0x39aa39c021dfbae8fac545936693ac917d5e7563.png"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum-nova/0x750ba8b76187092B0D1E87E28daaf484d1b5273b.jpg"
     },
     {
       "chainId": 42170,
@@ -42,7 +42,7 @@
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
-      "logoURI":"https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+      "logoURI":"https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum-nova/0xeD9d63a96c27f87B07115b56b2e3572827f21646.jpg"
     },
     {
       "chainId": 42170,
