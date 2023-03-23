@@ -67,6 +67,14 @@
       "name": "Bricks",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum-nova/0x6DcB98f460457fe4952e12779Ba852F82eCC62C1.jpg"
+    },
+    {
+      "chainId": 42170,
+      "address": "0xf823c3cd3cebe0a1fa952ba88dc9eef8e0bf46ad",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum-nova/0xf823c3cd3cebe0a1fa952ba88dc9eef8e0bf46ad.jpg"
     }
   ]
 }
