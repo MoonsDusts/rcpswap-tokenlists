@@ -74,7 +74,7 @@
       "symbol": "ARB",
       "name": "Arbitrum",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum-nova/0xf823c3cd3cebe0a1fa952ba88dc9eef8e0bf46ad.jpg"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg"
     }
   ]
 }
