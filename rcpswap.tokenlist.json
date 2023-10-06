@@ -38,14 +38,6 @@
     },
     {
       "chainId": 42170,
-      "address": "0x52484e1ab2e2b22420a25c20fa49e173a26202cd",
-      "symbol": "USDT",
-      "name": "Tether USD",
-      "decimals": 6,
-      "logoURI":"https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum-nova/0xeD9d63a96c27f87B07115b56b2e3572827f21646.jpg"
-    },
-    {
-      "chainId": 42170,
       "address": "0x722e8bdd2ce80a4422e880164f2079488e115365",
       "symbol": "WETH",
       "name": "WETH",
