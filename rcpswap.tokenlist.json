@@ -67,6 +67,14 @@
       "name": "Arbitrum",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg"
+    },
+    {
+      "chainId": 42170,
+      "address": "0x4b2576bc44310d6dfb4cfcf2630f25190fc60803",
+      "symbol": "MOOND",
+      "name": "MoonsDust",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/moond.png"
     }
   ]
 }
