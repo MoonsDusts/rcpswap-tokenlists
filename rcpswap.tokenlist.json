@@ -3,7 +3,7 @@
   "timestamp": "2020-09-01T00:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -78,11 +78,11 @@
     },
     {
       "chainId": 137,
-      "address": "0x4b2576bc44310d6dfb4cfcf2630f25190fc60803",
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "symbol": "WMATIC",
       "name": "WMATIC",
       "decimals": 18,
-      "logoURI": "https://cdn.sushi.com/image/upload/tokens/137/0x4b2576bc44310d6dfb4cfcf2630f25190fc60803.jpg"
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/137/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270.jpg"
     },
     {
       "chainId": 137,
