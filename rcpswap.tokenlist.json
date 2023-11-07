@@ -123,6 +123,14 @@
       "name": "Wrapped BTC",
       "decimals": 8,
       "logoURI": "https://cdn.sushi.com/image/upload/tokens/137/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xba777ae3a3c91fcd83ef85bfe65410592bdd0f7c",
+      "symbol": "CONE",
+      "name": "BitCone",
+      "decimals": 18,
+      "logoURI": "https://conegecko.com/assets/img/bitcone.png"
     }
   ]
 }
