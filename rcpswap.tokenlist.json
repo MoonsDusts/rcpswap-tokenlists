@@ -3,7 +3,7 @@
   "timestamp": "2020-09-01T00:00:00+00:00",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tags": {},
@@ -26,7 +26,7 @@
       "symbol": "DAI",
       "name": "Dai Stablecoin",
       "decimals": 18,
-      "logoURI":"https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum-nova/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.jpg"
+      "logoURI":"https://cdn.sushi.com/image/upload/tokens/42170/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.jpg"
     },
     {
       "chainId": 42170,
@@ -34,7 +34,7 @@
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum-nova/0x750ba8b76187092B0D1E87E28daaf484d1b5273b.jpg"
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42170/0x750ba8b76187092B0D1E87E28daaf484d1b5273b.jpg"
     },
     {
       "chainId": 42170,
@@ -42,7 +42,7 @@
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
-      "logoURI":"https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      "logoURI":"https://cdn.sushi.com/image/upload/tokens/42170/0x722E8BdD2ce80A4422E880164f2079488e115365.jpg"
     },
      {
       "chainId": 42170,
@@ -50,7 +50,7 @@
       "symbol": "MOON",
       "name": "Moons",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/moon.png"
     },
      {
       "chainId": 42170,
