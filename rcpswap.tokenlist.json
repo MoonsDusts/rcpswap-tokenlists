@@ -3,14 +3,14 @@
   "timestamp": "2020-09-01T00:00:00+00:00",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/moond.png",
   "keywords": [
-    "rcpswap", 
-    "rcp swap", 
+    "rcpswap",
+    "rcp swap",
     "bricks",
     "moons",
     "swap",
@@ -26,7 +26,7 @@
       "symbol": "DAI",
       "name": "Dai Stablecoin",
       "decimals": 18,
-      "logoURI":"https://cdn.sushi.com/image/upload/tokens/42170/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.jpg"
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42170/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.jpg"
     },
     {
       "chainId": 42170,
@@ -42,9 +42,9 @@
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
-      "logoURI":"https://cdn.sushi.com/image/upload/tokens/42170/0x722E8BdD2ce80A4422E880164f2079488e115365.jpg"
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42170/0x722E8BdD2ce80A4422E880164f2079488e115365.jpg"
     },
-     {
+    {
       "chainId": 42170,
       "address": "0x0057ac2d777797d31cd3f8f13bf5e927571d6ad0",
       "symbol": "MOON",
@@ -52,7 +52,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/moon.png"
     },
-     {
+    {
       "chainId": 42170,
       "address": "0x6dcb98f460457fe4952e12779ba852f82ecc62c1",
       "symbol": "BRICK",
@@ -131,6 +131,54 @@
       "name": "BitCone",
       "decimals": 18,
       "logoURI": "https://conegecko.com/assets/img/bitcone.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42161/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1.jpg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42161/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f.jpg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "decimals": 18,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42161/0x912CE59144191C1204E64559FE8253a0e49E6548.jpg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42161/0xaf88d065e77c8cC2239327C5EDb3A432268e5831.jpg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42161/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9.jpg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42161/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.jpg"
     }
   ]
 }
