@@ -3,7 +3,7 @@
   "timestamp": "2020-09-01T00:00:00+00:00",
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -163,6 +163,14 @@
       "name": "USD Coin",
       "decimals": 6,
       "logoURI": "https://cdn.sushi.com/image/upload/tokens/42161/0xaf88d065e77c8cC2239327C5EDb3A432268e5831.jpg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+      "symbol": "USDC.e",
+      "name": "Bridged USDC",
+      "decimals": 6,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42161/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.jpg"
     },
     {
       "chainId": 42161,
