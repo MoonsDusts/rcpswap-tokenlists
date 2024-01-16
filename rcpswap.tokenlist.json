@@ -3,7 +3,7 @@
   "timestamp": "2020-09-01T00:00:00+00:00",
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tags": {},
@@ -235,6 +235,46 @@
       "name": "Dai Stablecoin",
       "decimals": 18,
       "logoURI": "https://cdn.sushi.com/image/upload/tokens/56/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "symbol": "WAVAX",
+      "name": "Wrapped Avax",
+      "decimals": 18,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/43114/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.jpg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+      "symbol": "WETH",
+      "name": "Wrapped ETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/43114/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.jpg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/43114/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.jpg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/43114/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7.jpg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/43114/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70.jpg"
     }
   ]
 }
