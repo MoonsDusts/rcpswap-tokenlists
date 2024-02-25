@@ -28,6 +28,14 @@
       "decimals": 18,
       "logoURI": "https://cdn.sushi.com/image/upload/tokens/42170/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.jpg"
     },
+     {
+      "chainId": 42170,
+      "address": "0xe3dbc4f88eaa632ddf9708732e2832eeaa6688ab",
+      "symbol": "AIUS",
+      "name": "Arbius",
+      "decimals": 18,
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42170/0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB.jpg"
+    },
     {
       "chainId": 42170,
       "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
