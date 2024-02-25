@@ -3,7 +3,7 @@
   "timestamp": "2020-09-01T00:00:00+00:00",
   "version": {
     "major": 2,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tags": {},
@@ -28,14 +28,6 @@
       "decimals": 18,
       "logoURI": "https://cdn.sushi.com/image/upload/tokens/42170/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.jpg"
     },
-     {
-      "chainId": 42170,
-      "address": "0x8afe4055ebc86bd2afb3940c0095c9aca511d852",
-      "symbol": "AIUS",
-      "name": "Arbius",
-      "decimals": 18,
-      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42170/0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB.jpg"
-    },
     {
       "chainId": 42170,
       "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
@@ -43,6 +35,14 @@
       "name": "USD Coin",
       "decimals": 6,
       "logoURI": "https://cdn.sushi.com/image/upload/tokens/42170/0x750ba8b76187092B0D1E87E28daaf484d1b5273b.jpg"
+    },
+       {
+      "chainId": 42170,
+      "address": "0x8afe4055ebc86bd2afb3940c0095c9aca511d852",
+      "symbol": "AIUS",
+      "name": "Arbius",
+      "decimals": 18,
+      "logoURI": ""
     },
     {
       "chainId": 42170,
