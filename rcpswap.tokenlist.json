@@ -3,7 +3,7 @@
   "timestamp": "2020-09-01T00:00:00+00:00",
   "version": {
     "major": 2,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tags": {},
@@ -42,7 +42,7 @@
       "symbol": "AIUS",
       "name": "Arbius",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://cdn.sushi.com/image/upload/tokens/42170/0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB.jpg"
     },
     {
       "chainId": 42170,
